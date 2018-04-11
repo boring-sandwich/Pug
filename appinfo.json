@@ -1,0 +1,38 @@
+{
+    "appKeys": {},
+    "companyName": "pebble@geekypanda.com",
+    "longName": "pug",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pug_rightHeadOnly.png",
+                "name": "pug_rightHeadOnly_identifier",
+                "type": "png"
+            },
+            {
+                "file": "images/pug_rightHead.png",
+                "name": "pugRightHead_identifier",
+                "type": "png"
+            },
+            {
+                "file": "images/pug_leftHead.png",
+                "name": "pugLeftHead_identifier",
+                "type": "png"
+            },
+            {
+                "file": "fonts/arial.ttf",
+                "name": "RESOURCE_ID_font_arial_24",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "pug",
+    "uuid": "45b862cc-89c9-43e1-8816-32f01adf71a9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
